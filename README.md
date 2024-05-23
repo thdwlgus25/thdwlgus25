@@ -19,9 +19,5 @@
           <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
           <br/></div>
     </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=thdwlgus25&custom_title=thdwlgus25's Github Stat&bg_color=60,c5b4b4,b9a2a2&title_color=ffffff&text_color=ffffff"
-        /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thdwlgus25&layout=compact&bg_color=60,c5b4b4,b9a2a2&title_color=ffffff&text_color=ffffff"
-          /> </div> 
-    </div>
+
     
